@@ -262,8 +262,16 @@ Amazon Cognito
 Pay as you go
 オンデマンドのこと
 
-Paas
-オペレーティングシステムを管理する必要性を排除するクラウドコンピューティングモデル
+
+--アズアサービス分類
+SaaS：ソフトウェアの提供
+PaaS：プラットフォームの提供
+IaaS：仮想サーバーやネットワークなどインフラの提供
+DaaS：デスクトップの提供
+
+自由度
+SaaS >> PaaS >> IaaS >> DaaS
+
 
 --38
 Amazon S3 Transfer Acceleration
